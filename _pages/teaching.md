@@ -2,11 +2,22 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: For the complete list of my teaching experiences including curriculum development, please see my CV.
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+## Workshops
+Developing Your Mentor Map -- One hour workshop for first-year graduate students (PHYS 597) co-developed and co-led with Mary McMullan.<!--Materials from this workshop are available here.--><br>
 
-Organize your courses by years, topics, or universities, however you like!
+## Substitute Lectures
+ASTR 554: Cosmology (**Graduate Course**, 4 self-written lectures)<br>
+PHYS 407l Quantum Mechanics I (**Graduate Course**, 1 lecture)<br>
+PHYS 142: Electricity & Magnetism Honors (2 lectures)<br>
+
+
+## Courses Taught as a TA
+PHYS 114: General Physics II<br>
+PHYS 407: Quantum Mechanics I (**Graduate Course**)<br>
+PHYS 237: Quantum Mechanics of Physical Systems<br>
+PHYS 142: Electricity & Magnetism Honors<br>
