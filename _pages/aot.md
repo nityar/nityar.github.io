@@ -1,0 +1,3 @@
+### Astronomy on Tap Rochester
+
+Come listen to public astronomy talks by local astronomy undergraduate and graduate students, professors, and amateur astronomers! The Rochester chapter has events once a month on Tuesdays at [MicGinny's on the River](https://www.micginnys.com/). I help with promotion for AoT Rochester and gave a talk last October about counter-rotating spiral galaxies: _Some Galaxies Spin Weird!_ For details on the next event, you can check out the AoT Rochester [Facebook](https://www.facebook.com/aotrochester) or [Instagram](https://www.instagram.com/aotrochester).
