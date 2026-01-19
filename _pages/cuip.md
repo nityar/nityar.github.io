@@ -1,4 +1,4 @@
-# APS Conference for Undergraduate Women and Gender Minorities in Physics (CU\*iP)
+### APS Conference for Undergraduate Women and Gender Minorities in Physics (CU\*iP)
 
 I am a member of the program committee for the [2026 APS CU\*iP](https://www.aps.org/initiatives/inclusion/gender-inclusive/undergraduate-women-minorities) which will be held in Denver this March. CU\*iP is an annual national professional conference which aims to connect undergraduate physics majors with peers and mentors with shared experiences.
 <!-- I'll be leading a parallel session entitled How to Give Good Presentations. Materials from this session will be available after the conference and are adapted from [Professor Kelly Douglass](https://www.sas.rochester.edu/pas/people/faculty/douglass-kelly/index.html)'s _The Art of Presenting_ workshop series. -->
