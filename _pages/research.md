@@ -13,7 +13,7 @@ nav_order: 6
 ## The Baryonic Tully-Fisher Relation
 
 <p align="center">
-  <img src="/assets/img/btfr.png" style="max-height: 200px; max-width: 200px;" />
+  <img src="/assets/img/btfr.png" style="max-height: 100%; max-width: 100%;" />
 </p>
 
 The baryonic Tully-Fisher relation (BTFR) is the relationship between rotational velocity and baryonic mass in spiral galaxies. Since a galaxy's rotational velocity is due to its dynamical mass which consits of both its baryonic mass and dark matter, the BTFR can be used to study dark matter in galaxies. In my paper[_The Extended Baryonic Tully-Fisher Relation for SDSS MaNGA Galaxies_](https://arxiv.org/abs/2512.18577), I developed a way to include non-rotating elliptical galaxies in the relation to study the BTFR at the high mass end. My analysis revealed that we need observations of the faintest galaxies in the nearby universe to differentiate between different dark matter models.
