@@ -24,7 +24,7 @@ ninja.data = [{
             window.location.href = "/cv/";
           },
         },{id: "nav-outreach",
-          title: "outreach",
+          title: "Outreach",
           description: "Below are my current outreach efforts. For the full list of my outreach activities, please see my CV.",
           section: "Navigation",
           handler: () => {
