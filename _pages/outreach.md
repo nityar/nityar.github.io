@@ -4,7 +4,7 @@ permalink: /outreach/
 title: Outreach
 description: > 
   Here are a few of my recent outreach efforts. For a complete list 
-  of my outreach activities, please see my <a href="/assets/pdf/NityaRaviCV.pdf">CV</a>.
+  of my outreach activities, please see my [CV](/assets/pdf/NityaRaviCV.pdf).
 nav: true
 nav_order: 7
 
