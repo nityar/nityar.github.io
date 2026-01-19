@@ -1,8 +1,10 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: For the complete list of my teaching experiences including curriculum development, please see my CV.
+title: Teaching
+description: For the complete list of my teaching experiences including 
+            curriculum development, please see my 
+            <a href="/assets/pdf/NityaRaviCV.pdf">CV</a>.
 nav: true
 nav_order: 6
 ---

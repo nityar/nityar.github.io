@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /research/
-title: research
-description: 
+title: Research
+description:
 nav: true
 nav_order: 6
 ---
@@ -15,7 +15,12 @@ The baryonic Tully-Fisher relation (BTFR) is the relationship between rotational
 You can check out my [paper](https://arxiv.org/abs/2512.18577) on this subject or my [AAS iPoster](https://aas242-aas.ipostersessions.com/?s=06-5A-F0-5B-84-23-D2-EA-D7-37-E7-EE-E9-0E-FB-61).
 
 ## Counter-Rotating Spiral Galaxies
+
 The main baryonic mass components of spiral galaxies are stars and gas. In most spiral galaxies, these two components rotate toghether in a disk, but in some spiral galaxies, the gas and stelalr disk are offset from each other. In some cases, the two components are rotating in completely opposite directions! What causes this odd kinematic feature is still unknown; I am interested in disentangling environmental causes and internal causes. <!--The above graphic was created by my REU student Emilio Benitez Aguinaga.-->
 
 
 <!-- ## Using Photometry to Classify Galaxies by Their Evolutionary Phase -->
+
+## Students
+Emilio Benitez Aguinagan (NSF REU Summer 2025)
+JJ Pimentel (NSF REU Summer 2024, 2024-2025)
