@@ -2,12 +2,13 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: For the complete list of my teaching experiences including 
-            curriculum development, please see my 
-            <a href="/assets/pdf/NityaRaviCV.pdf">CV</a>.
+description: 
 nav: true
 nav_order: 6
 ---
+
+For the complete list of my teaching experiences including curriculum 
+development, please see my [CV](https://nityar.github.io/assets/pdf/NityaRaviCV.pdf).
 
 ## Workshops
 Developing Your Mentor Map -- One hour workshop for first-year graduate students (PHYS 597) co-developed and co-led with Mary McMullan.<!--Materials from this workshop are available here.--><br>
