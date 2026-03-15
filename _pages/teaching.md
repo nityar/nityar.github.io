@@ -7,20 +7,19 @@ nav: true
 nav_order: 6
 ---
 
-For the complete list of my teaching experiences including curriculum 
+I am currently a teaching assistant for PHYS 114: General Physics II. For the complete list of my teaching experiences including curriculum 
 development, please see my [CV](https://nityar.github.io/assets/pdf/NityaRaviCV.pdf).
 
 ## Workshops
-Developing Your Mentor Map -- One hour workshop for first-year graduate students (PHYS 597) co-developed and co-led with Mary McMullan.<!--Materials from this workshop are available here.--><br>
+Developing Your Mentor Map -- One hour workshop for first-year graduate students (PHYS 597) co-developed and co-led with [Mary McMullan](https://www.linkedin.com/in/mary-mcmullan/).<br>
 
 ## Substitute Lectures
 ASTR 554: Cosmology (**Graduate Course**, 4 self-written lectures)<br>
-PHYS 407l Quantum Mechanics I (**Graduate Course**, 1 lecture)<br>
+PHYS 407: Quantum Mechanics I (**Graduate Course**, 1 lecture)<br>
 PHYS 142: Electricity & Magnetism Honors (2 lectures)<br>
 
 
 ## Courses Taught as a TA
-PHYS 114: General Physics II<br>
 PHYS 407: Quantum Mechanics I (**Graduate Course**)<br>
 PHYS 237: Quantum Mechanics of Physical Systems<br>
 PHYS 142: Electricity & Magnetism Honors<br>
