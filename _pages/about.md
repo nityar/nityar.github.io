@@ -27,6 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a fourth-year Physics & Astronomy Ph.D. Candidate at the University of Rochester and a member of the [DESI collaboration](https://www.desi.lbl.gov/). I also serve on the physics depeartment's graduate student association board. I received a B.S. in Astrophysics and Applied Mathematics from UCLA in 2022.
+I am a fourth-year Physics & Astronomy Ph.D. Candidate at the University of Rochester and a member of the [DESI collaboration](https://www.desi.lbl.gov/). I also serve on the physics department's graduate student association board. I received a B.S. in Astrophysics and Applied Mathematics from UCLA in 2022.
 
 My research focuses on studying galaxy kinematics and dark matter in galaxies using large-scale galaxy surveys. When I'm not thinking about the weird ways in which galaxies spin, I like to watch football (go 49ers!) and movies, run, and sew.
