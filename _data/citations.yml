@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-13'
+  last_updated: '2026-04-24'
 papers:
   CR-IXIkAAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -10,7 +10,7 @@ papers:
     title: Using Machine Learning to Detect Large Galaxies
     year: '2024'
   CR-IXIkAAAAJ:UeHWp8X0CEIC:
-    citations: 0
+    citations: 1
     title: 'The DESI DR1 Peculiar Velocity Survey: The Tully-Fisher Distance Catalog'
     year: '2025'
   CR-IXIkAAAAJ:d1gkVwhDpl0C:
